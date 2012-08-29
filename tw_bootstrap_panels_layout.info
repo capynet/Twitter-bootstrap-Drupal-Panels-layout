@@ -1,0 +1,6 @@
+name = Twitter bootstrap layouts for panels.
+description = Panel's layouts using twitter bootstrap layout system as base.
+package = Panels
+dependencies[] = panels
+core = 7.x
+version = 7.x-0.1
