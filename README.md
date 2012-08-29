@@ -1,4 +1,4 @@
-Twitter-bootstrap-Drupal-Panels-layout
+Twitter bootstrap - Drupal - Panels layout
 ======================================
 
-Twitter bootstrap - Drupal - Panels layout
+Port of Panels layouts to Twitter bootstrap.
